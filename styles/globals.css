@@ -1,0 +1,5 @@
+/* Minimal placeholder for custom CSS preserved from original site. Add more rules as needed. */
+body { background-color: #fff; }
+
+/* Ensure container spacing similar to original */
+main.container { max-width: 1140px; }
